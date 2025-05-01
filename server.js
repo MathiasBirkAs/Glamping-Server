@@ -7,7 +7,7 @@ import dotenv from "dotenv";
 import stayRoutes from "./routes/stay.route.js";
 import activityRoutes from "./routes/activity.route.js";
 import reviewRoutes from "./routes/review.route.js";
-import userRoutes from './routes/user.route.js';
+import userRoutes from "./routes/user.route.js";
 
 // Indlæs miljøvariabler
 dotenv.config({ path: `.env.local`, override: true });
