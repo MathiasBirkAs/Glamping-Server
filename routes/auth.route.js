@@ -22,6 +22,6 @@ authRoute.post("/auth/signin", async (req, res) => {
   }
 });
 
-export default authRoute; // ✅ korrekt navn
+export default authRoute;
 
 
