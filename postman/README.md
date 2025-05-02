@@ -21,7 +21,7 @@ Alle endpoints er testet lokalt via:
 
 1. Åbn Postman
 2. Klik på **"Import"** (øverst til venstre)
-3. Vælg **"Upload Files"** og vælg `user-crud.postman_collection.json`
+3. Vælg **"Upload Files"** og vælg `Glamping server.postman_collection.json`
 4. Kollektionen vises i din sidebar klar til brug
 5. Husk at starte din backend før test:
    ```bash
