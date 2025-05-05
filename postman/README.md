@@ -1,6 +1,6 @@
-# 🧪 Postman-kollektion – Gittes Glamping: User CRUD
+# 🧪 Postman-kollektion –
 
-Denne Postman-kollektion tester CRUD-operationer for User-modellen i Gittes Glamping-projektet.
+Denne Postman-kollektion tester Glamping-projektet.
 
 ## 🧠 Hvad kollektionen tester
 
