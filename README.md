@@ -63,7 +63,7 @@ Forstod nogenlunde det med token, local storage men overordnet var det okay at l
 Tror der vare flere ting lige med at holde styr på også den vi skulle sammenkoble dine filer til vores var os lidt svært for det virkede ikke helt i starten
 
 17. Hvordan fordelte I arbejdet i gruppen?
-Jeg lavede alt kodningen og opsatte det med server og postman (Mathias) og Oliver var til stede, kikkede med osv også lærte vi det overordnet sammen 
+Jeg lavede alt kodningen og opsatte det med server og Github (Mathias) og Oliver var til stede, kikkede med osv også lærte vi det overordnet sammen 
 
 18. Hvordan kunne I bruge dette login-system i et større projekt, fx med brugerroller eller
 adgangsbegrænsede sider?
