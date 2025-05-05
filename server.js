@@ -32,7 +32,7 @@ app.use(authRouter);
 
 // Root route
 app.get("/", (req, res) => {
-  res.send("🌲 Gittes Glamping API er live! 🌄");
+  res.send("🌲Glamping API er live! 🌄");
 });
 
 // Start server & connect DB
