@@ -67,3 +67,4 @@ Jeg lavede alt kodningen og opsatte det med server og postman (Mathias) og Olive
 
 18. Hvordan kunne I bruge dette login-system i et større projekt, fx med brugerroller eller
 adgangsbegrænsede sider?
+Jeg tænker hvis vi skulle lave noget med abonnoment eller hvis man skulle lave en side som brugte bruger som ligesom den opskrift side vi lavede osv, men tænker at der er mange sider man kunne bruge den slags login til 
